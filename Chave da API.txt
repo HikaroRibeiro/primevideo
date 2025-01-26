@@ -1,0 +1,12 @@
+Chave da API
+1e77155b7a3cb9e16993046790d540c0
+
+
+Token de Leitura da API
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZTc3MTU1YjdhM2NiOWUxNjk5MzA0Njc5MGQ1NDBjMCIsIm5iZiI6MTczMDQ2MTY5NC44NDQ1OTY2LCJzdWIiOiI2NzIyOTNjMzE4ODI3YTkzMjlmMTg2N2MiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.kjrZz885CQUbbziAZ-ieXFBz40lErwwxlDb5nzijfCM
+
+https://api.themoviedb.org/3/movie/550?api_key=1e77155b7a3cb9e16993046790d540c0&language=pt-BR
+https://api.themoviedb.org/3/movie/157336?api_key=1e77155b7a3cb9e16993046790d540c0
+
+Now Playin:
+https://api.themoviedb.org/3/movie/now_playing?api_key=1e77155b7a3cb9e16993046790d540c0&language=pt-BR
